@@ -21,3 +21,4 @@ ufw allow 10050
 
 ufw reload
 
+systemctl restart zabbix-agent
